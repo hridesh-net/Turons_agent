@@ -1,9 +1,9 @@
 import os
 from dotenv import load_dotenv
 
-from base_utils_class import PromptAgent, ArticleAgent
-from data_utils import fetch_tech_news, filter_tech_articles
-from aws_utils import update_article_in_dynamodb, store_news_in_dynamodb
+from utils.base_utils_class import PromptAgent, ArticleAgent
+from utils.data_utils import fetch_tech_news, filter_tech_articles
+from utils.aws_utils import update_article_in_dynamodb, store_news_in_dynamodb
 
 load_dotenv()
 
