@@ -143,6 +143,7 @@ Easily switch categories to focus on what matters to you.
 ### 🤝 Contributing
 
 We love contributions! If you have ideas to improve this project or want to fix something, feel free to fork the repo and create a pull request.
+
 ---
 
 ### 🛡️ Disclaimer
