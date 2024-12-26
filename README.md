@@ -142,13 +142,13 @@ Easily switch categories to focus on what matters to you.
 
 ----
 
-### 🤝 Contributing
+# 🤝 Contribution
 
 We love contributions! If you have ideas to improve this project or want to fix something, feel free to fork the repo and create a pull request.
 
 ---
 
-### 🛡️ Disclaimer
+# 🛡️ Disclaimer
 
 This project uses external APIs and services. Ensure you comply with their terms of use.
 
