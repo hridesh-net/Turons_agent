@@ -1,4 +1,4 @@
-![Header Image](images/Turons%20Letter%20(1).png)
+![Header Image](images/Turons%20Letter%20(2).png)
 
 # 📰 Turons Agent
 Latest News Filter and Notifier
