@@ -62,7 +62,7 @@ class PromptAgent:
         }
 
         payload = {
-            "model": "llama-3.1-70b-versatile",
+            "model": "llama-3.3-70b-versatile",
             "messages": [{"role": "user", "content": prompt}],
         }
 
@@ -98,7 +98,7 @@ class ArticleAgent:
         }
 
         payload = {
-            "model": "llama-3.1-70b-versatile",
+            "model": "llama-3.3-70b-versatile",
             "messages": [{"role": "user", "content": prompt}],
         }
 
